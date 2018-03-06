@@ -11,7 +11,7 @@
 
 468x60 IAB Full-Size Banner(for Tablets)
 
-728x90 IAB Leaderboard(for Tablets)
+728x90 IAB Leaderboard(for Tablets)1
 
 Interstitial
 
